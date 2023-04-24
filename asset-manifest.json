@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/devExtream-form/static/css/main.b9626eed.css",
+    "main.js": "/devExtream-form/static/js/main.d8a06e27.js",
+    "static/media/logo.png": "/devExtream-form/static/media/logo.1f863c7162526990be40.png",
+    "index.html": "/devExtream-form/index.html",
+    "main.b9626eed.css.map": "/devExtream-form/static/css/main.b9626eed.css.map",
+    "main.d8a06e27.js.map": "/devExtream-form/static/js/main.d8a06e27.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9626eed.css",
+    "static/js/main.d8a06e27.js"
+  ]
+}
